@@ -1,1 +1,1 @@
-# .github
+# HUND Robotics Capstone Team
